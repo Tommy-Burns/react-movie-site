@@ -35,7 +35,7 @@ const App = () => {
     }, []);
     return (
         <div className="app">
-            <h1>MoviesApp</h1>
+            <h1>Movies App</h1>
 
             <div className="search">
                 <input
